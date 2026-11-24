@@ -1,0 +1,15 @@
+instructions: Click on each section, or %before_link search, %after_link for %country.name
+  statistics for The Antigua and Barbuda Agenda for SIDS (ABAS) global indicators.
+instructions_short: Click on each section for %country.name The Antigua and Barbuda Agenda for SIDS (ABAS)
+  global indicator data.
+instructions_shorter: Select each section for indicator data.
+heading: "%country.name data for ABAS section indicators"
+heading_short: "%country.name data for the ABAS M&E Framework sections"
+download_all: Download all data (.zip)
+zip_file: ZIP file
+file_size: Size
+intro_title: The Antigua and Barbuda Agenda for SIDS (ABAS)
+intro_body: The Antigua and Barbuda Agenda for Small Island Developing States (ABAS) is a 10-year
+  commitment to resilient prosperity for SIDS that was adopted by the UN General Assembly in July 2024.
+
+  The ABAS M&E Framework allows progress towards ABAS to be monitored over time.

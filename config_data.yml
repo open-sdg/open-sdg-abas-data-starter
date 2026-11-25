@@ -89,12 +89,12 @@ inputs:
 
 #  the indicator configuration files for each indicator
   - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
+    path_pattern: indicator-config/*.yml
     git: false
 
 #  for the SDG button links on each ABAS indicator page
   - class: InputYamlMeta
-    path_pattern: custom-config/*-*.yml
+    path_pattern: custom-config/*.yml
     git: false
 
 #  for local yml metadata files

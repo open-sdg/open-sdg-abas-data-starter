@@ -110,7 +110,7 @@ inputs:
 
 #  for local SDG word metadata files
   #- class: InputWordMeta
-  #  path_pattern: meta/*-*.docm
+  #  path_pattern: meta/*.docm
   #  git: true
   #  indicator_id_conversions:
   #   17-4-1: ABAS1-1-1

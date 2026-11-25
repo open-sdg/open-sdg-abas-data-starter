@@ -43,7 +43,7 @@ inputs:
 #  for data in local csv files
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
+    path_pattern: data/*.csv
 
 #  for data in remote csv files
   #- class: InputCsvDataRemote
